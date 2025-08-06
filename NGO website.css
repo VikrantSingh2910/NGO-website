@@ -161,10 +161,6 @@
     .grid {
         display: grid;
         grid-template-columns: 33% 33% 33%;
-      /* flex-wrap: wrap;
-      justify-content: space-around; */
-      /* text-align: center; */
-      /* gap: 10px; */
     }
     .foot {
         margin-left: 10%;
@@ -188,4 +184,5 @@
         text-align: center;
       }
     }
+
   
